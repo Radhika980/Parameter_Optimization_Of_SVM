@@ -1,4 +1,5 @@
 # Parameter_Optimization_Of_SVM
+Assignment for UCS654
 
 Support Vector Machines (SVMs) are powerful and versatile machine learning algorithms used for both classification and regression tasks. The main idea behind SVMs is to find the hyperplane that maximizes the margin between the different classes in the dataset.
 
@@ -19,6 +20,16 @@ Optimizing these parameters can be challenging and time-consuming, but it is cru
 4. Split the samples in  70 : 30 for training and testing
 5. Optimise SVM using randomisation for every sample and report best accuracy and best parameters
 6. For the best sample plot the convergence graph
+
+
+## Dataset
+
+The dataset for the project has been downloaded from the UCI Machine Learning Repository.
+
+| Number of Instances:  |  |
+|-----------------------|--------|
+| Number of Attributes: |   |
+
 
 ## Submission by :
 **Name** : Radhika Aggarwal

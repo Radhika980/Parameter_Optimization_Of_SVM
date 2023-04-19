@@ -25,6 +25,7 @@ Optimizing these parameters can be challenging and time-consuming, but it is cru
 ## Dataset
 
 The dataset for the project has been downloaded from the UCI Machine Learning Repository.
+https://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/
 
 | Number of Instances:  |  |
 |-----------------------|--------|

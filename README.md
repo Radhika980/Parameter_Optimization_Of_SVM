@@ -25,11 +25,11 @@ Optimizing these parameters can be challenging and time-consuming, but it is cru
 ## Dataset
 
 The dataset for the project has been downloaded from the UCI Machine Learning Repository.
-https://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/
+https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
 
-| Number of Instances:  | 20000 |
+| Number of Instances:  | 48842 |
 |-----------------------|--------|
-| Number of Attributes: |  16 |
+| Number of Attributes: |  14 |
 
 
 ## Submission by :

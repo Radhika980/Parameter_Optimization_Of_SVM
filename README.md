@@ -57,7 +57,7 @@ This dataset is used for images of 13,611 grains of 7 different registered dry b
 | 10 | 0.48 | poly | 2.02 | 4.64 |
 
 ## Convergence Graph
-![graph]
+![graph]https://github.com/Radhika980/Parameter_Optimization_Of_SVM/blob/main/convergence_garph.jpeg
 
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
